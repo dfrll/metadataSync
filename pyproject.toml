@@ -2,7 +2,7 @@
 name = "metadatasync"
 version = "0.1.0"
 description = ""
-authors = [{ name = "dfrll", email = "dfrll@protom.me" }]
+authors = [{ name = "Drew Ferrell", email = "dfrll@proton.me" }]
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
